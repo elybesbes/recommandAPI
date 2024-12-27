@@ -1,0 +1,5 @@
+Input,Shoes,Topwear,Bottomwear,Bags,Headwear
+Shoes,0,1,1,0,1
+Topwear,1,0,1,0,1
+Bottomwear,1,1,0,0,1
+Bags,0,1,1,0,0

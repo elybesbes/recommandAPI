@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+tensorflow
+keras
+scikit-learn
+python-multipart
